@@ -4,4 +4,4 @@ This is an implementation of genetic algorithm to solve Travelling Salesman Prob
 
 This implementation will only works if the graph is **COMPLETE**. If the graph is not complete, the code has to be modified accordingly.
 
-<img src="" width= height=></img>
+<img src="graph.png"></img>
